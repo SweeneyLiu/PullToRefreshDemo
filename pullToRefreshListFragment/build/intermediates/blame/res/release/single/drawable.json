@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\lsw\\github\\PullToRefreshDemo\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\lsw\\github\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\lsw\\github\\PullToRefreshDemo\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\lsw\\github\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

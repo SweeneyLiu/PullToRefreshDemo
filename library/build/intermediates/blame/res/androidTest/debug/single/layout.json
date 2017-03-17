@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\lsw\\github\\PullToRefreshDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\lsw\\github\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\lsw\\github\\PullToRefreshDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\lsw\\github\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    }
+]

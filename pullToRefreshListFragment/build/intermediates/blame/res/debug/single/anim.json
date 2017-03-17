@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\lsw\\github\\PullToRefreshDemo\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\lsw\\github\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\lsw\\github\\PullToRefreshDemo\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\lsw\\github\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\lsw\\github\\PullToRefreshDemo\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\lsw\\github\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\lsw\\github\\PullToRefreshDemo\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\lsw\\github\\PullToRefreshDemo\\library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    }
+]
